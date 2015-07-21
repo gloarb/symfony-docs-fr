@@ -622,7 +622,7 @@ de la classe ``AppKernel`` :
         return $bundles;
     }
 
-Avec la méthode ``registerBundles()``, vous avez le contrôle totale des bundles
+Avec la méthode ``registerBundles()``, vous avez le contrôle total des bundles
 qui sont utilisés dans votre application (incluant les bundles du coeur de Symfony).
 
 .. tip::
